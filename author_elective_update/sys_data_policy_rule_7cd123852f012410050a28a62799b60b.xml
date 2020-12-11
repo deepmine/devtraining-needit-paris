@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="DELETE">
+        <disabled>true</disabled>
+        <field>active</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>matscri</sys_created_by>
+        <sys_created_on>2020-12-11 15:24:30</sys_created_on>
+        <sys_data_policy display_value="Make a field name mandatory or read-only">b781eb012f012410050a28a62799b6a9</sys_data_policy>
+        <sys_id>7cd123852f012410050a28a62799b60b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>active</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_data_policy_rule_7cd123852f012410050a28a62799b60b</sys_update_name>
+        <sys_updated_by>matscri</sys_updated_by>
+        <sys_updated_on>2020-12-11 15:24:30</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_data_policy_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>11c93001db70109c4b5c50b6f4961965</instance_id>
+        <instance_name>dev103250</instance_name>
+        <name>sys_data_policy_rule_7cd123852f012410050a28a62799b60b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule"><sys_data_policy_rule action="INSERT_OR_UPDATE"><disabled>true</disabled><field>active</field><mandatory>ignore</mandatory><sys_class_name>sys_data_policy_rule</sys_class_name><sys_created_by>matscri</sys_created_by><sys_created_on>2020-12-11 15:24:30</sys_created_on><sys_data_policy display_value="Make a field name mandatory or read-only">b781eb012f012410050a28a62799b6a9</sys_data_policy><sys_id>7cd123852f012410050a28a62799b60b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>active</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_data_policy_rule_7cd123852f012410050a28a62799b60b</sys_update_name><sys_updated_by>matscri</sys_updated_by><sys_updated_on>2020-12-11 15:24:30</sys_updated_on><table>x_58872_needit_needit</table></sys_data_policy_rule></record_update>]]></payload>
+        <payload_hash>-915654839</payload_hash>
+        <record_name>active</record_name>
+        <reverted_from/>
+        <source>437fb8d82f816010050a28a62799b60d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>matscri</sys_created_by>
+        <sys_created_on>2020-12-11 15:24:30</sys_created_on>
+        <sys_id>52e16b452f012410050a28a62799b698</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17652674cad0000001</sys_recorded_at>
+        <sys_updated_by>matscri</sys_updated_by>
+        <sys_updated_on>2020-12-11 15:24:30</sys_updated_on>
+        <type>Data Policy Rule</type>
+        <update_guid>9ae16b45a9012410f90825c17e8c4497</update_guid>
+        <update_guid_history>9ae16b45a9012410f90825c17e8c4497:-915654839</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>matscri</sys_created_by>
+        <sys_created_on>2020-12-11 15:27:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy_rule">sys_data_policy_rule</sys_db_object>
+        <sys_id>021da99f57c448048398b686ee655590</sys_id>
+        <sys_metadata>7cd123852f012410050a28a62799b60b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>active</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">b781eb012f012410050a28a62799b6a9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_data_policy_rule_7cd123852f012410050a28a62799b60b</sys_update_name>
+        <sys_update_version display_value="sys_data_policy_rule_7cd123852f012410050a28a62799b60b">52e16b452f012410050a28a62799b698</sys_update_version>
+        <sys_updated_by>matscri</sys_updated_by>
+        <sys_updated_on>2020-12-11 15:27:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
